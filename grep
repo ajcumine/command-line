@@ -1,0 +1,1 @@
+grep is used to search for the string following it eg. "grep aaa" will search for "aaa" in any text passed to it
